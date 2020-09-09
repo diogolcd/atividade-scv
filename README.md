@@ -8,6 +8,8 @@
   <tr>
     <td>Rodrigo Andrade</td>
     <td>Maceio</td>
+  </tr>
+  <tr>
     <td>Diogo Leonardo Cavalcanti Duarte</td>
     <td>Canhotinho</td>
   </tr>
